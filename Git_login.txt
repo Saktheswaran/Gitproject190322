@@ -1,0 +1,4 @@
+git remote add 190322 https://github.com/Saktheswaran/Gitproject190322.git        <------ adding variable
+
+
+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    <------ token created 190322 valid 1 month
